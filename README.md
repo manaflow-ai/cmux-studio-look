@@ -5,8 +5,9 @@
 A dense, near-black workbench for agent chats in cmux: quiet neutral chrome, a hairline between the
 sidebar and the chat, compact rows, and a boxed prompt with square-ish corners.
 
-Studio is a dark look. Its theme file picks a dark base theme and `agent-pane/theme.css` is written
-for a dark chat, so use the stylesheet on its own only over a dark theme.
+Studio picks a near-black theme, but its chat stylesheet is made only from the theme's own colors,
+so `agent-pane/theme.css` on its own reads over a light theme as well as a dark one (WCAG AA,
+checked in both).
 
 It is built only from public surfaces, so you can copy any part of it:
 
