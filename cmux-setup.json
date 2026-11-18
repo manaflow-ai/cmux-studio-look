@@ -21,6 +21,10 @@
     "sidebar.workspaceRow.icon": false,
     "sidebar.workspaceRow.directory": false,
     "sidebar.workspaceRow.branch": true,
-    "sidebar.workspaceRow.lastActivity": true
+    "sidebar.workspaceRow.lastActivity": true,
+
+    "appearance.background": "none",
+    "appearance.backgroundBlur": "none",
+    "appearance.backgroundOpacity": 1
   }
 }
